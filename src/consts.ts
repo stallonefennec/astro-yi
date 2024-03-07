@@ -152,8 +152,8 @@ export const friendlyLinks =
  * requiredMeta 必填字段
  */
 export const comment = {
-  enable: false,
-  serverUrl: "https://xxxxxxx.com",
+  enable: true,
+  serverUrl: "https://waline-smoky-gamma.vercel.app/",
   pageSize: 20,
   wordLimit: '',
   count: 5,
