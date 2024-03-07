@@ -8,7 +8,7 @@ import {remarkModifiedTime} from "./src/remarkPlugin/remark-modified-time.mjs";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://astro-yi.cn',
+  site: 'https://blog.fennec-lucky.com/',
   integrations: [mdx(), sitemap(), tailwind(), solid()],
 
   markdown: {

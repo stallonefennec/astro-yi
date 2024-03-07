@@ -16,11 +16,11 @@
  * beian：备案号
  */
 export const site = {
-  title: 'Astro Theme Yi',
+  title: '山语城三期业主维权总舵',
   description: 'You only live once,so what are you waiting for?',
-  author: "Cirry",
+  author: "Stallone",
   motto: '最重要的事情只有一件',
-  url: 'https://astro-yi.cn',
+  url: 'https://blog.fennec-lucky.com/',
   recentBlogSize: 5,
   archivePageSize: 25,
   postPageSize: 10,
