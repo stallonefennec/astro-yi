@@ -153,11 +153,11 @@ export const friendlyLinks =
  */
 export const comment = {
   enable: true,
-  serverUrl: "https://waline-smoky-gamma.vercel.app/",
+  serverUrl: "https://comment.fennec-lucky.com/",
   pageSize: 20,
   wordLimit: '',
   count: 5,
   pageview: true,
   reaction: false,
-  requiredMeta: ["nick", "mail"],
+  requiredMeta: ["nick"],
 }
