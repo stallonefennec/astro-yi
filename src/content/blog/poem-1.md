@@ -29,6 +29,7 @@ category: 维权
 
 物业公司公示栏里这名何姓女子就是昨天打电话并上门找李先生理论的人，她是小区物业公司的客服人员。随后，李先生拨打了多个电话，何某都没接。
 ![](https://github.com/stallonefennec/astro-yi/blob/main/public/640%20(1).jpg?raw=true)
-![](https://github.com/stallonefennec/astro-yi/blob/main/src/content/IMG/640%20(2).jpg?raw=true)
+![](/markdown/public-640.jpg)
+
 
 [最干货的一期｜专业股票投资人怎么看门道？](https://www.youtube.com/watch?v=xnIYIpXKvNM)。
