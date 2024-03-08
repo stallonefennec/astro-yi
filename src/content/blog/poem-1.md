@@ -33,4 +33,3 @@ category: 维权
 ![](/markdown/harass/public-660.jpg)
 
 
-[最干货的一期｜专业股票投资人怎么看门道？](https://www.youtube.com/watch?v=xnIYIpXKvNM)。
